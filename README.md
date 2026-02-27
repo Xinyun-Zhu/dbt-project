@@ -1,14 +1,8 @@
-Welcome to your new dbt project!
+Welcome to my new dbt project!
 
-### Using the starter project
+### Check out my dbt learning note here:
 
-Try running the following commands:
-- dbt build
+(https://www.notion.so/DBT-Leveling-Up-313ceaa8fb9881408cd1c7e933b67e5a)
 
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](http://slack.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+### Happy learning!
